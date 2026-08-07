@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Pritom</h1>
-<h3 align="center">A Full-Stack Developer building things end-to-end</h3>
+<h3 align="center">Full-Stack Developer | React • Node.js • TypeScript</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;Node.js+%2B+React;Python+%26+C%2FC%2B%2B;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;React+%2B+Node.js;Python+%26+C%2B%2B;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR-REAL-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-real-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <!-- Add portfolio if you have one -->
 </p>
 
 ---
 
 ### 🚀 About Me
-- 💻 Full-stack developer working across the **JavaScript** and **Python/C++** ecosystems
-- 🌱 Currently building projects with **React**, **Node.js**, and exploring backend systems
-- ⚡ Comfortable moving between frontend UI work and backend/API logic
-- 📫 Reach me at: **YOUR-EMAIL@example.com**
+- Full-stack developer focused on building end-to-end web applications
+- Currently working with **React**, **Node.js/TypeScript**, and exploring backend systems
+- Comfortable across the stack — from UI to APIs and databases
+- Open to opportunities and collaborations
 
 ---
 
@@ -25,16 +25,20 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+---
+
+### 📌 Featured Projects
+
+- **[RentNest](https://github.com/pritom00/rentnest-frontend)** — Full-stack rental platform (React + TypeScript frontend + backend)
+- **[DevPulse API](https://github.com/pritom00/devpulse-api)** — Backend API project built with TypeScript
 
 ---
 
