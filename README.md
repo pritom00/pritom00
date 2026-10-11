@@ -66,17 +66,26 @@ Currently focused on building intelligent platforms and leveling up in AI-powere
 
 ---
 
+---
+
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pritom00&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritom00&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pritom00&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&count_private=true&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritom00&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=c9d1d9&langs_count=6" height="170"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=pritom00&theme=radical&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=pritom00&theme=transparent&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=8B949E" />
+</div>
+
+<br/>
+
+<!-- Activity Graph (looks very premium) -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pritom00&theme=react&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -84,7 +93,7 @@ Currently focused on building intelligent platforms and leveling up in AI-powere
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pritom00/pritom00/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/pritom00/pritom00/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
