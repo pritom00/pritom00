@@ -1,6 +1,5 @@
 <div align="center">
   
-  <!-- Typing Animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Estiaz+Nur+Pritom;AI+Full-Stack+Engineer;Building+Intelligent+Web+Systems;React+%7C+Node.js+%7C+TypeScript+%7C+AI" alt="Typing SVG" />
 
 </div>
@@ -58,10 +57,10 @@ Currently focused on building intelligent platforms and leveling up in AI-powere
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[Courier Logistics Platform](https://github.com/pritom00/courier-frontend)** | Full-featured multi-role logistics system (Customer • Provider • Admin) with BFF pattern, role-based access, and modern architecture | Next.js 15 • TypeScript • TanStack Query • Zustand |
-| **[RecipeHub](https://github.com/pritom00/recipehub)** | Social recipe platform with intelligent unit conversion engine + live force-directed graphs (follow network & recipe similarity) | TypeScript • Prisma • WebSockets • Custom Algorithms |
-| **[DataPulse](https://github.com/pritom00/datapulse)** | Full-stack analytics dashboard combining stock data + GitHub insights with real-time charts | Next.js • Node.js • Prisma • Recharts |
-| **[RentNest](https://github.com/pritom00/rentnest-frontend)** | Complete rental platform (frontend + backend) built with TypeScript | React • TypeScript • Node.js |
+| **[Courier Logistics Platform](https://github.com/pritom00/courier-frontend)** | Full-featured multi-role logistics system (Customer • Provider • Admin) with BFF pattern and modern architecture | Next.js 15 • TypeScript • TanStack Query • Zustand |
+| **[RecipeHub](https://github.com/pritom00/recipehub)** | Social recipe platform with intelligent unit conversion engine + live force-directed graphs | TypeScript • Prisma • WebSockets • Custom Algorithms |
+| **[DataPulse](https://github.com/pritom00/datapulse)** | Full-stack analytics dashboard combining stock data + GitHub insights | Next.js • Node.js • Prisma • Recharts |
+| **[RentNest](https://github.com/pritom00/rentnest-frontend)** | Complete rental platform (frontend + backend) | React • TypeScript • Node.js |
 | **[DevPulse API](https://github.com/pritom00/devpulse-api)** | Production-ready issue tracking REST API with JWT auth & role-based access | Node.js • TypeScript • PostgreSQL • Express |
 
 ---
@@ -75,16 +74,22 @@ Currently focused on building intelligent platforms and leveling up in AI-powere
 
 <br/>
 
-<!-- Animated Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pritom00&theme=react&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true&area_color=00D4FF30" width="95%"/>
 </div>
 
 <br/>
 
-<!-- Streak -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=pritom00&theme=transparent&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
+</div>
+
+---
+
+### 🏙️ 3D Contribution City
+
+<div align="center">
+  <img src="https://gitcity.natrajx.in/api/svg?username=pritom00" alt="3D Contribution City" width="100%"/>
 </div>
 
 ---
@@ -94,8 +99,6 @@ Currently focused on building intelligent platforms and leveling up in AI-powere
 <div align="center">
   <img src="https://raw.githubusercontent.com/pritom00/pritom00/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
-
-
 
 ---
 
